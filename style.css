@@ -1,0 +1,195 @@
+.haut
+{
+    display: flex;
+    justify-content: flex-end;
+    font-family: Arial;
+    font-size: small; 
+    justify-content: space-between 100px; 
+}
+.gmail:hover
+{
+    text-decoration: underline;
+}
+.img:hover
+{
+    text-decoration: underline;
+}
+.googlee
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.sign
+{
+    background-color:#5991f6;
+    color:white;
+    border-radius: 15%;
+}
+.sign:hover
+{
+    background-color: #5991f6;
+}
+.centre
+{
+    margin-top: 180px;
+    display: block;
+    max-width: 90em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center
+{
+    margin: auto;
+    font-family: Arial;
+    font-size: small;
+    display:flex;
+    justify-content: center;
+}
+.center2
+{
+    margin:auto;
+    font-family: Arial;
+    font-size: small;
+}
+.recherche
+{
+    text-align: center;
+}
+.in
+{
+    border-radius: 5%/90%;
+    height:100%;
+    width:45%;
+    min-width: 40%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(177, 175, 175);
+}
+.in:hover
+{
+    box-shadow: 0px 0px 5px rgb(167, 163, 163);
+}
+.google
+{
+    width:20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search
+{
+    border-width:1em;
+    border-right: white;
+    background-color: rgb(216, 212, 212);
+    border-radius: 5px;
+    color: rgb(99, 98, 98);
+}
+.chance
+{
+    background-color: rgb(216, 212, 212);
+    border-radius: 5px;
+    color: rgb(99, 98, 98);
+} 
+.search:hover
+{
+    border-style: solid;
+    border-color:  rgb(161, 159, 159);
+    border-width: 1px;
+    color: black;
+}
+.chance:hover
+{
+    border-style: solid;
+    border-color:  rgb(161, 159, 159);
+    border-width: 1px;
+    color: black;
+}
+.fr
+{
+    color: #7f7fd2;
+}
+.ha
+{
+    color:#7f7fd2;
+}
+.fr:hover
+{
+    text-decoration: underline;
+}
+.ha:hover
+{
+    text-decoration: underline;
+}
+footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(216, 212, 212);
+    border-top: 1px solid rgb(161, 159, 159);
+}
+.nig
+{
+    font-family: Arial;
+    font-size: small;
+    color: rgb(99, 98, 98);
+    padding-left: 1em;
+}   
+.bas
+{
+    display: flex;
+    border-top: 1px solid rgb(161, 159, 159);
+    font-family: Arial;
+    background-color: rgb(216, 212, 212);
+    font-size: small;
+    justify-content: space-between;
+    color: rgb(99, 98, 98);
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.bleft
+{
+    display: flex;
+    justify-content: space-between;
+}
+.bright
+{
+    display: flex;
+    justify-content: space-around;
+}
+pre
+{
+    font-family: Arial;
+}
+.adver:hover
+{
+    text-decoration: underline;
+}
+.bus:hover
+{
+    text-decoration: underline;
+}
+.abo:hover
+{
+    text-decoration: underline;
+}
+.how:hover
+{
+    text-decoration: underline;
+}
+.pri:hover
+{
+    text-decoration: underline;
+}
+.ter:hover
+{
+    text-decoration: underline;
+}
+.set:hover
+{
+    text-decoration: underline;
+}

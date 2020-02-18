@@ -161,35 +161,38 @@ footer
     display: flex;
     justify-content: space-around;
 }
-pre
-{
-    font-family: Arial;
+.lien{
+    color: black;
 }
-.adver:hover
-{
-    text-decoration: underline;
+.liens{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
 }
-.bus:hover
-{
-    text-decoration: underline;
+@media all and (min-width: 320px) and (max-width: 375px){
+    .recherche input{
+        width: 200px;
+        height: 30px;
+        padding-top: 10px;
+        border-radius: 20px;
+        box-shadow:6px 6px 6px rgb(196, 191, 191);
+    }
 }
-.abo:hover
-{
-    text-decoration: underline;
+@media all and (min-width: 375px) and (max-width: 768px){
+    .recherche input{
+        width: 300px;
+        height: 30px;
+        padding-top: 10px;
+        border-radius: 20px;
+        box-shadow:6px 6px 6px rgb(196, 191, 191);
+    }
 }
-.how:hover
-{
-    text-decoration: underline;
-}
-.pri:hover
-{
-    text-decoration: underline;
-}
-.ter:hover
-{
-    text-decoration: underline;
-}
-.set:hover
-{
-    text-decoration: underline;
+@media all and (min-width: 100px) and (max-width: 320px){
+    .recherche input{
+        width: auto;
+        height: 30px;
+        padding-top: 10px;
+        border-radius: 20px;
+        box-shadow:6px 6px 6px rgb(196, 191, 191);
+    }
 }
